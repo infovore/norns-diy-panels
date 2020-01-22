@@ -46,6 +46,8 @@ To assemble, from top-to-bottom:
 
 I managed to assemble all the spacers I required from [this kit of Raspberry Pi spacers][spacerkit]. I recommend cutting the panels and working out what you will need _before_ ordering it.
 
+This design does not support the screen. I should probably do that. My screen had **M2** hardware in the corners. Even a simple M-F standoff would help support it a bit.
+
 ## Licence
 
 This design is issued under a "works for me". Licence. You may find these instructions, diagrams, and panels are not of assistance, or do not work for you. Sorry. Suggest improvements. No support is supplied or should be expected, though it may still be forthcoming.
